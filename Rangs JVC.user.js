@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Rangs JVC
 // @author       Knifos
-// @version      1.1
+// @version      2
 // @namespace    https://github.com/Knifos
 // @updateURL    https://raw.githubusercontent.com/Knifos/Rangs-JVC/refs/heads/main/Rangs%20JVC.user.js
 // @downloadURL  https://raw.githubusercontent.com/Knifos/Rangs-JVC/refs/heads/main/Rangs%20JVC.user.js
