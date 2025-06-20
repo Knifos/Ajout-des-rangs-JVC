@@ -3,8 +3,8 @@
 // @author       Knifos
 // @version      1
 // @namespace    https://github.com/Knifos
-// @updateURL    https://raw.githubusercontent.com/Knifos/Ajout-des-rangs-JVC/refs/heads/main/Rangs%20JVC.js
-// @downloadURL  https://raw.githubusercontent.com/Knifos/Ajout-des-rangs-JVC/refs/heads/main/Rangs%20JVC.js
+// @updateURL    https://raw.githubusercontent.com/Knifos/Rangs-JVC/refs/heads/main/Rangs%20JVC.js
+// @downloadURL  https://raw.githubusercontent.com/Knifos/Rangs-JVC/refs/heads/main/Rangs%20JVC.js
 // @icon         https://i.ibb.co/0RhNwjW9/Hexagon-bleu-knifos.png
 // @description  Affiche le rang du pseudo sur les profils avec une petite image. Au clic de l'image, ouvre une fenêtre pop-up expliquant les rangs.
 // @match        https://www.jeuxvideo.com/profil/*?mode=infos*
