@@ -8,4 +8,5 @@ _Ex : une personne avec 1200 messages aura le rang « or »._
 Note : lorsque vous appuyez sur la petite image de votre rang, davantage d'informations vous sont offertes.
 
 N'hésitez pas à me faire part de la moindre suggestion,
+
 Knifos
