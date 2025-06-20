@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Rangs JVC
 // @author       Knifos
-// @version      2
+// @version      1
 // @namespace    https://github.com/Knifos
 // @updateURL    https://raw.githubusercontent.com/Knifos/Rangs-JVC/refs/heads/main/Rangs%20JVC.user.js
 // @downloadURL  https://raw.githubusercontent.com/Knifos/Rangs-JVC/refs/heads/main/Rangs%20JVC.user.js
@@ -10,8 +10,6 @@
 // @match        https://www.jeuxvideo.com/profil/*
 // @grant        none
 // ==/UserScript==
-
-// test
 
 (function () {
     'use strict';
@@ -318,10 +316,10 @@ const rang = obtenirRang(totalPoints);
             wrapper.style.paddingRight = "29px";
         }
         else {
-           wrapper.style.paddingRight = "32px";
+            wrapper.style.paddingRight = "32px";
         }
 
-        // wrapper.style.paddingRight = "32px"; // 24px largeur image + 8px marge
+        // exemple : wrapper.style.paddingRight = "32px"; // 24px largeur image + 8px marge
 
         wrapper.style.minWidth = "fit-content"; // s'assure que le texte ne sera pas compressé
         wrapper.style.cursor = "pointer"; // pointeur pour indiquer cliquable
