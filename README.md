@@ -2,6 +2,8 @@
 Ce script rajoute une mention discrète du rang correspondant à votre nombre de messages.
 Celui-ci s'accompagne d'une petite image (qui sont les images des anciens rangs).
 
+![Exemple](https://github.com/Knifos/Rangs-JVC/blob/main/Screenshot_29.png) ![Explications Rrngs](https://github.com/Knifos/Rangs-JVC/blob/main/explications-rangs-knifos.png)
+
 Les rangs sont copiés-collés sur les anciens rangs de jeuxvideo.com (pré-Respawn).
 _Ex : une personne avec 1200 messages aura le rang « or »._
 
